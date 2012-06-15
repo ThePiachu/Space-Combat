@@ -1,6 +1,0 @@
-#include "Map/asteroids.h"
-#include "Map/grid.h"
-#include "Map/gridelement.h"
-#include "Map/mothership.h"
-#include "Map/ship.h"
-#include "Map/target.h"

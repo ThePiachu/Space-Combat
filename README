@@ -1,0 +1,26 @@
+A pre-compiled version of the program is available in the Executable folder.
+
+
+The controls for the system are:
+/ – toggle display grid
+ws ad qe – pitch, yaw and roll of camera
+rf – camera zoom
+mouse click and movement – camera control
+Esc – quit
+Tab – pause/unpause time flow
+! – in some scenarios, it compiles the data about agents saved to the hard drive into one file
+F1-F10 – start different scenarios
+
+
+More controls are displayed in each appropriate scenario. Scenarios available are:
+
+F1 – scenario focused on evaluating agent evolution in high density asteroid area
+F2 – simple path following
+F3 – grid and A-Star only scenario
+F4 – more complicated path following
+F5 – interactive scenario for flocking behaviours of wander, alignment, cohesion, separation and collision avoidance
+F6 – scenario where the agents use simple FSM to mine asteroid and bring back resources
+F7 – scenario where agents use simple FSM and A-Star algorithm for mining asteroids an bringing back the resources
+F8 – agent combat
+F9 – scenario involving two groups of agents – Harvesters and Fighters cooperating and competing for resources, with their actions being defined by virtual emotions of fear and anger and undergoing evolution
+F10 – scenario involving two groups of agents – Harvesters and Fighters cooperating and competing for resources, with their actions being defined by virtual emotions of fear and anger and undergoing selective evolution
